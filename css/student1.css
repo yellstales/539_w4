@@ -56,7 +56,7 @@ p {
 
 .gallery {
    display: grid;
-   grid-template-columns: 1fr 1fr;
+   grid-template-columns: 250px 250px;
    border: black dashed 2px;
    width: 90%;
    gap: 20px;
